@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="797baa6b5dea2a7b385c0a359eb790e6da4a60cb">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_83f0102f4350bd5efd805f017a7c2571c55b686f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_0b388ed94bbda3bcc8624c7d0a86dc4c39b9ecdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.0.2_5b390de52bdd47e12c30195ffe7ff7ba50020fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_ae6ada88a9bfde951810c53d9375a3ad30ca474f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_c056e9a09dcca21c8f9141f7c3e37f02df4ebb58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_99d7135e431f7b771f77aed7ed8f173a4c92ff36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_6d6e3600a27c8dc0fb2a21d37a564b5c6f7a20b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_e54bc99628ad06819019d7a7795246e0ee359c60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a21ae7cc376c0df386ff50b08342521521c95bf">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_02337a31d2b60c497ae75353ffe19187f27195d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_c80d6057d5bb3682d245b9d91457a44969b17fae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.0.2\2d956522c556caeb35148445ecd059ebe67331f6\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d956522c556caeb35148445ecd059ebe67331f6">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.android.service-1.0.2_4a8d78ccd9be13b3e085e919bbc2e3189cb4ac9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_a1b9e4f3643865af851225734ee16f1ae018e66e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_b9444db05d6bb9d18286cce2326efe33eabfc818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_bb5b5677b91e68aff937be7b1073eaa93e4d285d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_84043648570a3f4227996a15af4b5a393999dc71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.estimote\sdk\0.16.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3aee285fb75f9d81f1a77e1ad9bebc7b5125ab0">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.estimote-sdk-0.16.0_569f28e7114810b51a654f60b1c4c608a2e9b392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_778a67783cf0562d3fe4d505626de2586b05a643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\jnyre\AndroidStudioProjects\NimbleNurse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_c5f44cb33f4844b9940532a9a5cfb014276b76e6\classes.dex" />
+    </item>
+
+</items>

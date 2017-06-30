@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nimble Nurse</string>
+
+           <string name="text_patients">Patients Fragment</string>
+        <string name="text_tasks">Tasks Fragment</string>
+        <string name="text_map">Map Fragment</string>
+
+        <string name="Tasks">Tasks</string>
+        <string name="Map">Map</string>
+        <string name="Patients">My Patients</string>
+        <string name="title_activity_main">MainActivity</string>
+        <string name="title_activity_patient__detail">Patient_Detail</string>
+
+</resources>

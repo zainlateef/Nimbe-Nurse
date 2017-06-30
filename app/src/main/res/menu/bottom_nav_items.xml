@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Patients"
+        android:title="@string/Patients"
+        android:icon="@drawable/ic_patients_black" />
+        <item
+            android:id="@+id/Tasks"
+            android:title="@string/Tasks"
+            android:icon="@drawable/ic_tasks_black"
+            />
+        <item
+            android:id="@+id/Map"
+            android:title="@string/Map"
+            android:icon="@drawable/ic_map_black"
+            />
+    <item
+        android:id="@+id/Stream"
+        android:title="Stream"
+        android:icon="@drawable/ic_stream_black"
+        />
+
+    </menu>
+
